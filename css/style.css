@@ -13,7 +13,7 @@ p.a {
 
 body {
 	opacity: 1;
-	background-image: url(/img/greyback.png);
+	background-image: url(../img/greyback.png);
 	background-position: center center;
 	background-size: 100% 100%;
 	}
